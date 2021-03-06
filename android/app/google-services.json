@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490015968268",
+    "project_id": "platosdemotask",
+    "storage_bucket": "platosdemotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490015968268:android:9e15481d85d98cfbb53229",
+        "android_client_info": {
+          "package_name": "com.example.platoDemoTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490015968268-d9sjghmp9i11qekccl515ei06e6gvs90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiARd7lS6cCPiEeXPfL47KLa2bdvuS5vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490015968268-d9sjghmp9i11qekccl515ei06e6gvs90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
